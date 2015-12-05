@@ -9,12 +9,12 @@
 	- [2.1 JobScheduler, Job, JobSet 详解](2.1 JobScheduler, Job, JobSet 详解.md)
 	- [2.2 JobGenerator 详解](2.2 JobGenerator 详解.md)
 - *模块 3：数据产生与导入*
-	- `预计 12.13` 3.1 Receiver 分发详解 
-	- `预计 12.13` 3.2 Receiver, ReceiverSupervisor, BlockGenerator, ReceivedBlockHandler 详解
-	- `预计 12.13` 3.3 ReceiverTraker, ReceivedBlockTracker 详解
+	- [3.1 Receiver 分发详解](3.1 Receiver 分发详解.md) 
+	- [3.2 Receiver, ReceiverSupervisor, BlockGenerator, ReceivedBlockHandler 详解](3.2 Receiver, ReceiverSupervisor, BlockGenerator, ReceivedBlockHandler 详解.md)
+	- [3.3 ReceiverTraker, ReceivedBlockTracker 详解](3.3 ReceiverTraker, ReceivedBlockTracker 详解.md)
 - *模块 4：长时容错*
-	- `预计 12.20` 4.1 Executor 端长时容错详解
-	- `预计 12.20` 4.2 Driver 端长时容错详解
+	- `预计 12.13` 4.1 Executor 端长时容错详解
+	- `预计 12.13` 4.2 Driver 端长时容错详解
 - *StreamingContext*
 	- `预计 12.20` 5.1 StreamingContext 详解
 
