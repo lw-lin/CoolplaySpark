@@ -3,20 +3,20 @@
 - *概述*
 	- [0.1 Spark Streaming 实现思路与模块概述](0.1 Spark Streaming 实现思路与模块概述.md)
 - *模块 1：DAG 静态定义*
-	- `预计 12.05` 1.1 DStream, DStreamGraph 详解 
-	- `预计 12.08` 1.2 DStream 生成 RDD 实例详解 
+	- [1.1 DStream, DStreamGraph 详解](1.1 DStream, DStreamGraph 详解.md)
+	- [1.2 DStream 生成 RDD 实例详解](1.2 DStream 生成 RDD 实例详解.md)
 - *模块 2：Job 动态生成*
-	- `预计 12.12` 2.1 JobScheduler, Job, JobSet 详解
-	- `预计 12.15` 2.2 JobGenerator 详解
+	- [2.1 JobScheduler, Job, JobSet 详解](2.1 JobScheduler, Job, JobSet 详解.md)
+	- [2.2 JobGenerator 详解](2.2 JobGenerator 详解.md)
 - *模块 3：数据产生与导入*
-	- `预计 12.19` 3.1 Receiver 分发详解 
-	- `预计 12.22` 3.2 Receiver, ReceiverSupervisor, BlockGenerator, ReceivedBlockHandler 详解
-	- `预计 12.26` 3.3 ReceiverTraker, ReceivedBlockTracker 详解
+	- `预计 12.13` 3.1 Receiver 分发详解 
+	- `预计 12.13` 3.2 Receiver, ReceiverSupervisor, BlockGenerator, ReceivedBlockHandler 详解
+	- `预计 12.13` 3.3 ReceiverTraker, ReceivedBlockTracker 详解
 - *模块 4：长时容错*
-	- `预计 12.29` 4.1 Executor 端长时容错详解
-	- `预计 01.02` 4.2 Driver 端长时容错详解
+	- `预计 12.20` 4.1 Executor 端长时容错详解
+	- `预计 12.20` 4.2 Driver 端长时容错详解
 - *StreamingContext*
-	- `预计 01.05` 5.1 StreamingContext 详解
+	- `预计 12.20` 5.1 StreamingContext 详解
 
 ## Spark Streaming 史前史(1)
 
