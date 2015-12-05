@@ -1,4 +1,4 @@
-## [酷玩 Spark] Spark Streaming 源码解析系列
+## Spark Streaming 源码解析系列
 
 - *概述*
 	- [0.1 Spark Streaming 实现思路与模块概述](0.1 Spark Streaming 实现思路与模块概述.md)
