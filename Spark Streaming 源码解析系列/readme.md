@@ -27,6 +27,12 @@
 - *StreamingContext*
 	- `预计 12.20` 5.1 StreamingContext 详解
 
+```
+感谢
+
+* Weibo @wyggggo 同学指出 1 处 typo; Github @jacksu 同学指出、修正 1 处 typo
+```
+
 ## Spark Streaming 史前史(1)
 
 作为跑在商业硬件上的大数据处理框架，Apache Hadoop 在诞生后的几年内（2005~今）火的一塌糊涂，几乎成为了业界处理大数据的事实上的标准工具：
