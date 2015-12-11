@@ -27,11 +27,9 @@
 - *StreamingContext*
 	- `预计 12.20` 5.1 StreamingContext 详解
 
-```
-感谢
+### 感谢
 
-* Weibo @wyggggo 同学指出 1 处 typo; Github @jacksu 同学指出、修正 1 处 typo
-```
+- Weibo @wyggggo 同学指出 1 处 typo; Github @jacksu 同学指出、修正 1 处 typo
 
 ## Spark Streaming 史前史(1)
 
