@@ -22,14 +22,14 @@
 	- [3.2 Receiver, ReceiverSupervisor, BlockGenerator, ReceivedBlockHandler 详解](3.2 Receiver, ReceiverSupervisor, BlockGenerator, ReceivedBlockHandler 详解.md)
 	- [3.3 ReceiverTraker, ReceivedBlockTracker 详解](3.3 ReceiverTraker, ReceivedBlockTracker 详解.md)
 - *模块 4：长时容错*
-	- `预计 12.13` 4.1 Executor 端长时容错详解
-	- `预计 12.13` 4.2 Driver 端长时容错详解
+	- [4.1 Executor 端长时容错详解](4.1 Executor 端长时容错详解.md)
+	- 4.2 Driver 端长时容错详解
 - *StreamingContext*
-	- `预计 12.20` 5.1 StreamingContext 详解
+	- 5.1 StreamingContext 详解
 
 ## 致谢
 
-- Weibo @wyggggo 同学指出 1 处 typo;
+- Weibo @wyggggo 同学指出 1 处 typo
 - Github @jacksu 同学指出、修正 1 处 typo
 
 ## Spark Streaming 史前史(1)
