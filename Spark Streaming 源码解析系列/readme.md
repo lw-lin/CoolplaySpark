@@ -31,6 +31,7 @@
 
 - Weibo @wyggggo 同学指出 1 处 typo
 - Github @jacksu 同学指出、修正 1 处 typo
+- Github @marlin5555 同学指出 1 处配图遗漏信息
 
 ## Spark Streaming 史前史(1)
 
