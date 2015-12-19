@@ -45,6 +45,7 @@
 
 ![iamge](0.imgs/002.png)
 
+  ps: 前段时间跟一位前 Googler（很巧他是 MillWheel 的第一批用户）一起吃饭时，了解到 MillWheel 原来是 2010 年左右开发的，据说极其极其好用。
 
 ## Spark Streaming 诞生
 
