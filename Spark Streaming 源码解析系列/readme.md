@@ -23,7 +23,7 @@
 	- [3.3 ReceiverTraker, ReceivedBlockTracker 详解](3.3 ReceiverTraker, ReceivedBlockTracker 详解.md)
 - *模块 4：长时容错*
 	- [4.1 Executor 端长时容错详解](4.1 Executor 端长时容错详解.md)
-	- 4.2 Driver 端长时容错详解
+	- [4.2 Driver 端长时容错详解](4.2 Driver 端长时容错详解.md)
 - *StreamingContext*
 	- 5.1 StreamingContext 详解
 
