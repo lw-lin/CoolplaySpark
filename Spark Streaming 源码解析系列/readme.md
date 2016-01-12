@@ -29,9 +29,10 @@
 
 ## 致谢
 
-- Weibo @wyggggo 同学指出 1 处 typo
-- Github @jacksu 同学指出、修正 1 处 typo
+- Github @ouyangshourui 同学指出 1 处问题，并提 Pull Request 修正（PR 已合并）
+- Github @jacksu 同学指出 1 处问题，并提 Pull Request 修正（PR 已合并）
 - Github @marlin5555 同学指出 1 处配图遗漏信息
+- Weibo @wyggggo 同学指出 1 处 typo
 
 ## Spark Streaming 史前史(1)
 
