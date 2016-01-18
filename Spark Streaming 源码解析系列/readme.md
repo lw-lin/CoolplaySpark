@@ -31,7 +31,8 @@
 
 - Github @ouyangshourui 同学指出 1 处问题，并提 Pull Request 修正（PR 已合并）
 - Github @jacksu 同学指出 1 处问题，并提 Pull Request 修正（PR 已合并）
-- Gith @ubtaojiang1982 同学指出 1 处 typo
+- Github @397090770 同学指出 1 处配图笔误
+- Github @ubtaojiang1982 同学指出 1 处 typo
 - Github @marlin5555 同学指出 1 处配图遗漏信息
 - Weibo @wyggggo 同学指出 1 处 typo
 
