@@ -2,7 +2,7 @@
 
 欢迎来到 Coolplay Spark（中文名：酷玩 Spark）！
 
-Coolplay Spark 将包含多个系列，包括源代码解析、实用代码包等内容。
+Coolplay Spark 将包含 Spark 源代码解析、Spark 类库、Spark 代码等。
 
 ## 已发布的内容
 
