@@ -4,7 +4,7 @@ import org.apache.spark.{SparkContext, SparkConf}
 
 /**
  * This program can be downloaded at:
- * https://github.com/lw-lin/CoolplaySpark/tree/master/Spark%20%E6%A0%B7%E4%BE%8B%E5%B7%A5%E7%A8%8B/spark_hello_world
+ * https://github.com/lw-lin/CoolplaySpark/tree/master/Spark%20%E6%A0%B7%E4%BE%8B%E5%B7%A5%E7%A8%8B
  */
 object SparkHelloWorld {
 
