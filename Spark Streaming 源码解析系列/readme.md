@@ -31,6 +31,7 @@
 
 ## 致谢
 
+- Github @endymecy 同学指出 2 处问题，并提 Pull Request 修正（PR 已合并）
 - Github @ouyangshourui 同学指出 1 处问题，并提 Pull Request 修正（PR 已合并）
 - Github @jacksu 同学指出 1 处问题，并提 Pull Request 修正（PR 已合并）
 - Github @397090770 同学指出 1 处配图笔误
