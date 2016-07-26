@@ -62,3 +62,11 @@
 ![iamge](0.imgs/006.png)
 
 本系列文章，就来详解发布于 2013 年的 Spark Streaming。
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+## 
+
+![](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
+
+除非另有注明，本《Spark Streaming 源码解析系列》系列文章使用 [CC BY-NC（署名-非商业性使用）](https://creativecommons.org/licenses/by-nc/4.0/) 知识共享许可协议。
