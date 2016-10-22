@@ -5,10 +5,9 @@
 ```
 本系列内容适用范围：
 
-* 2016.02.25 update, Spark 2.0 全系列 √ (2.0.0-SNAPSHOT 尚未正式发布)
-* 2016.03.10 update, Spark 1.6 全系列 √ (1.6.0, 1.6.1)
+* 2016.10.03 update, Spark 2.0 全系列 √ (2.0.0, 2.0.1)
+* 2016.06.25 update, Spark 1.6 全系列 √ (1.6.0, 1.6.1, 1.6.2)
 * 2015.11.09 update, Spark 1.5 全系列 √ (1.5.0, 1.5.1, 1.5.2)
-* 2015.07.15 update, Spark 1.4 全系列 √ (1.4.0, 1.4.1)
 ```
 
 - *概述*
@@ -33,6 +32,7 @@
 
 - Github @endymecy 同学指出 2 处 typo，并提 Pull Request 修正（PR 已合并）
 - Github @wongxingjun 同学指出 2 处 typo，并提 Pull Request 修正（PR 已合并）
+- Github Tao Meng (@mtunique) 同学指出 1 处 typo，并提 Pull Request 修正（PR 已合并）
 - Github @ouyangshourui 同学指出 1 处问题，并提 Pull Request 修正（PR 已合并）
 - Github @jacksu 同学指出 1 处问题，并提 Pull Request 修正（PR 已合并）
 - Github @klion26 同学指出 1 处 typo
@@ -62,3 +62,11 @@
 ![iamge](0.imgs/006.png)
 
 本系列文章，就来详解发布于 2013 年的 Spark Streaming。
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+## 　
+
+![](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
+
+除非另有注明，本《Spark Streaming 源码解析系列》系列文章使用 [CC BY-NC（署名-非商业性使用）](https://creativecommons.org/licenses/by-nc/4.0/) 知识共享许可协议。
