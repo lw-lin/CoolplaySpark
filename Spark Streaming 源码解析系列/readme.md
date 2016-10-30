@@ -32,8 +32,8 @@
 
 ## 致谢
 
+- Github @wongxingjun 同学指出 3 处 typo，并提 Pull Request 修正（PR 已合并）
 - Github @endymecy 同学指出 2 处 typo，并提 Pull Request 修正（PR 已合并）
-- Github @wongxingjun 同学指出 2 处 typo，并提 Pull Request 修正（PR 已合并）
 - Github Tao Meng (@mtunique) 同学指出 1 处 typo，并提 Pull Request 修正（PR 已合并）
 - Github @ouyangshourui 同学指出 1 处问题，并提 Pull Request 修正（PR 已合并）
 - Github @jacksu 同学指出 1 处问题，并提 Pull Request 修正（PR 已合并）
