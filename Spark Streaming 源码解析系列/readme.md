@@ -1,12 +1,13 @@
 ## Spark Streaming 源码解析系列
 
+[「腾讯·广点通」](http://e.qq.com)技术团队荣誉出品
+
 ```
 本系列内容适用范围：
 
-* 2016.01.04 update, Spark 1.6 全系列 √ (1.6.0)
+* 2016.10.03 update, Spark 2.0 全系列 √ (2.0.0, 2.0.1)
+* 2016.06.25 update, Spark 1.6 全系列 √ (1.6.0, 1.6.1, 1.6.2)
 * 2015.11.09 update, Spark 1.5 全系列 √ (1.5.0, 1.5.1, 1.5.2)
-* 2015.07.15 update, Spark 1.4 全系列 √ (1.4.0, 1.4.1)
-* 2015.04.17 update, Spark 1.3 全系列 √ (1.3.0, 1.3.1)
 ```
 
 - *概述*
@@ -26,12 +27,21 @@
 	- [4.2 Driver 端长时容错详解](4.2 Driver 端长时容错详解.md)
 - *StreamingContext*
 	- 5.1 StreamingContext 详解
+- *一些 Q&A*
+	- [什么是 end-to-end exactly-once?](Q&A 什么是 end-to-end exactly-once.md)
 
 ## 致谢
 
-- Weibo @wyggggo 同学指出 1 处 typo
-- Github @jacksu 同学指出、修正 1 处 typo
+- Github @wongxingjun 同学指出 3 处 typo，并提 Pull Request 修正（PR 已合并）
+- Github @endymecy 同学指出 2 处 typo，并提 Pull Request 修正（PR 已合并）
+- Github Tao Meng (@mtunique) 同学指出 1 处 typo，并提 Pull Request 修正（PR 已合并）
+- Github @ouyangshourui 同学指出 1 处问题，并提 Pull Request 修正（PR 已合并）
+- Github @jacksu 同学指出 1 处问题，并提 Pull Request 修正（PR 已合并）
+- Github @klion26 同学指出 1 处 typo
+- Github @397090770 同学指出 1 处配图笔误
+- Github @ubtaojiang1982 同学指出 1 处 typo
 - Github @marlin5555 同学指出 1 处配图遗漏信息
+- Weibo @wyggggo 同学指出 1 处 typo
 
 ## Spark Streaming 史前史(1)
 
@@ -54,3 +64,11 @@
 ![iamge](0.imgs/006.png)
 
 本系列文章，就来详解发布于 2013 年的 Spark Streaming。
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+## 　
+
+![](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
+
+除非另有注明，本《Spark Streaming 源码解析系列》系列文章使用 [CC BY-NC（署名-非商业性使用）](https://creativecommons.org/licenses/by-nc/4.0/) 知识共享许可协议。

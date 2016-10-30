@@ -1,8 +1,13 @@
-package com.github.proflin.spark
+package com.github.lw_lin.spark
 
 import org.apache.spark.{SparkContext, SparkConf}
 
+/**
+ * This program can be downloaded at:
+ * https://github.com/lw-lin/CoolplaySpark/tree/master/Spark%20%E6%A0%B7%E4%BE%8B%E5%B7%A5%E7%A8%8B
+ */
 object SparkHelloWorld {
+
   def main(args: Array[String]) {
     val conf = new SparkConf()
     conf.setAppName("SparkHelloWorld")
