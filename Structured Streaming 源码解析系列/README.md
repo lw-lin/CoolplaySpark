@@ -29,7 +29,7 @@
 
 > 谨以此《Structured Streaming 源码解析系列》和以往的《Spark Streaming 源码解析系列》，向“把大数据变得更简单 (make big data simple) ”的创新者们，表达感谢和敬意。
 
-## 共享许可
+## 知识共享
 
 ![](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
 

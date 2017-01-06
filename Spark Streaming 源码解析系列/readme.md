@@ -66,9 +66,7 @@
 
 本系列文章，就来详解发布于 2013 年的 Spark Streaming。
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-## 　
+## 知识共享
 
 ![](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
 
