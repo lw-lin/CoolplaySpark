@@ -1,9 +1,9 @@
-# Spark Summit 视频 (2016 最新)
+# Spark Summit 视频 (2017 最新)
 
-![spark_summit_europe_2016](resources/spark_summit_europe_2016.jpg)
-- 日程及 slides => [Spark Summit Europe 2016 官方日程](https://spark-summit.org/eu-2016/schedule/)
+![spark_summit_east_2017](resources/spark_summit_east_2017.png)
+- 日程及 slides => [Spark Summit East 2017 官方日程](https://spark-summit.org/east-2017/schedule/)
 - 视频集合 => [墙外地址@Youtube](https://www.youtube.com/user/TheApacheSpark)
-- 视频集合 => [墙内地址@百度云盘](https://pan.baidu.com/s/1dE4OB4H)
+- 视频集合 => [墙内地址@百度云盘](http://pan.baidu.com/s/1jHD7yey)
   <br/>
 
 # Spark 中文微信交流群
@@ -27,10 +27,12 @@
 
 *应当将下面的内容看做一个目录和索引，可以按需找到相关资源*
 
-- 过去的 Spark Summit (2016)
+# Spark Summit 视频 (2016 年)
 
-  - Spark Summit 2016 - 2016.06.06-08，at 旧金山，视频集合 => [墙内地址@百度云盘](https://pan.baidu.com/s/1bZpurW)
-  - Spark Summit East 2016 - 2016.02.16-18，at 纽约，视频集合 => [墙内地址@百度云盘](https://pan.baidu.com/s/1jHyMj46)
+- 过去的 Spark Summit (2016 年共 3 次)
+  - Spark Summit Europe 2016，2016.10.25-10.27，at 布鲁塞尔，视频集合 => [墙内地址@百度云盘](https://pan.baidu.com/s/1dE4OB4H)
+  - Spark Summit 2016，2016.06.06-06.08，at 旧金山，视频集合 => [墙内地址@百度云盘](https://pan.baidu.com/s/1bZpurW)
+  - Spark Summit East 2016，2016.02.16-02.18，at 纽约，视频集合 => [墙内地址@百度云盘](https://pan.baidu.com/s/1jHyMj46)
 
   <br/>
 
