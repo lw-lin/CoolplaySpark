@@ -35,14 +35,15 @@
 
 - Github @wongxingjun 同学指出 3 处 typo，并提 Pull Request 修正（PR 已合并）
 - Github @endymecy 同学指出 2 处 typo，并提 Pull Request 修正（PR 已合并）
+- Github 张瀚 (@AntikaSmith) 同学指出 1 处 问题（已修正）
 - Github Tao Meng (@mtunique) 同学指出 1 处 typo，并提 Pull Request 修正（PR 已合并）
 - Github @ouyangshourui 同学指出 1 处问题，并提 Pull Request 修正（PR 已合并）
 - Github @jacksu 同学指出 1 处问题，并提 Pull Request 修正（PR 已合并）
-- Github @klion26 同学指出 1 处 typo
-- Github @397090770 同学指出 1 处配图笔误
-- Github @ubtaojiang1982 同学指出 1 处 typo
-- Github @marlin5555 同学指出 1 处配图遗漏信息
-- Weibo @wyggggo 同学指出 1 处 typo
+- Github @klion26 同学指出 1 处 typo（已修正）
+- Github @397090770 同学指出 1 处配图笔误（已修正）
+- Github @ubtaojiang1982 同学指出 1 处 typo（已修正）
+- Github @marlin5555 同学指出 1 处配图遗漏信息（已修正）
+- Weibo @wyggggo 同学指出 1 处 typo（已修正）
 
 ## Spark Streaming 史前史(1)
 
