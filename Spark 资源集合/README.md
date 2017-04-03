@@ -8,10 +8,10 @@
 
 # Spark 中文微信交流群
 
-![wechat_spark_streaming_small](resources/wechat_spark_streaming_small.PNG)   ![wechat_sh_meetup_small](resources/wechat_sh_meetup_small.PNG)
+![wechat_spark_streaming_small](resources/wechat_spark_streaming_small_.PNG)   ![wechat_sh_meetup_small](resources/wechat_sh_meetup_small.PNG)
 <br/>
 
-# Spark 资源（since 2016.07.01)
+# Spark 资源（since 2017.01.01)
 
 - [Databricks 的博客](https://databricks.com/blog)
   - Spark 背后的大数据公司的博客，包括 Spark 技术剖析、Spark 案例、行业动态等
@@ -23,11 +23,11 @@
   - 作者会按照最新 Spark 版本（目前是 2.1.0）持续更新和修订
     <br/>
 
-# Spark 资源（prior to 2016.06.31)
+# Spark 资源（prior to 2016.12.31)
 
 *应当将下面的内容看做一个目录和索引，可以按需找到相关资源*
 
-# Spark Summit 视频 (2016 年)
+## Spark Summit 视频 (2016 年)
 
 - 过去的 Spark Summit (2016 年共 3 次)
   - Spark Summit Europe 2016，2016.10.25-10.27，at 布鲁塞尔，视频集合 => [墙内地址@百度云盘](https://pan.baidu.com/s/1dE4OB4H)
