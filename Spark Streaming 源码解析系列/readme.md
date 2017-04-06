@@ -11,25 +11,25 @@
 ```
 
 - *概述*
-  - [0.1 Spark Streaming 实现思路与模块概述](0.1 Spark Streaming 实现思路与模块概述.md)
+  - [0.1 Spark Streaming 实现思路与模块概述](0.1%20Spark%20Streaming%20实现思路与模块概述.md)
 - *模块 1：DAG 静态定义*
-  - [1.1 DStream, DStreamGraph 详解](1.1 DStream, DStreamGraph 详解.md)
-  - [1.2 DStream 生成 RDD 实例详解](1.2 DStream 生成 RDD 实例详解.md)
+  - [1.1 DStream, DStreamGraph 详解](1.1%20DStream%2C%20DStreamGraph%20详解.md)
+  - [1.2 DStream 生成 RDD 实例详解](1.2%20DStream%20生成%20RDD%20实例详解.md)
 - *模块 2：Job 动态生成*
-  - [2.1 JobScheduler, Job, JobSet 详解](2.1 JobScheduler, Job, JobSet 详解.md)
-  - [2.2 JobGenerator 详解](2.2 JobGenerator 详解.md)
+  - [2.1 JobScheduler, Job, JobSet 详解](2.1%20JobScheduler%2C%20Job%2C%20JobSet%20详解.md)
+  - [2.2 JobGenerator 详解](2.2%20JobGenerator%20详解.md)
 - *模块 3：数据产生与导入*
-  - [3.1 Receiver 分发详解](3.1 Receiver 分发详解.md) 
-  - [3.2 Receiver, ReceiverSupervisor, BlockGenerator, ReceivedBlockHandler 详解](3.2 Receiver, ReceiverSupervisor, BlockGenerator, ReceivedBlockHandler 详解.md)
-  - [3.3 ReceiverTraker, ReceivedBlockTracker 详解](3.3 ReceiverTraker, ReceivedBlockTracker 详解.md)
+  - [3.1 Receiver 分发详解](3.1%20Receiver%20分发详解.md) 
+  - [3.2 Receiver, ReceiverSupervisor, BlockGenerator, ReceivedBlockHandler 详解](3.2%20Receiver%2C%20ReceiverSupervisor%2C%20BlockGenerator%2C%20ReceivedBlockHandler%20详解.md)
+  - [3.3 ReceiverTraker, ReceivedBlockTracker 详解](3.3%20ReceiverTraker%2C%20ReceivedBlockTracker%20详解.md)
 - *模块 4：长时容错*
-  - [4.1 Executor 端长时容错详解](4.1 Executor 端长时容错详解.md)
-  - [4.2 Driver 端长时容错详解](4.2 Driver 端长时容错详解.md)
+  - [4.1 Executor 端长时容错详解](4.1%20Executor%20端长时容错详解.md)
+  - [4.2 Driver 端长时容错详解](4.2%20Driver%20端长时容错详解.md)
 - *StreamingContext*
   - 5.1 StreamingContext 详解
 - *一些资源和 Q&A*
-  - [Spark 资源集合](https://github.com/lw-lin/CoolplaySpark/tree/master/Spark%20%E8%B5%84%E6%BA%90%E9%9B%86%E5%90%88) (包括 Spark Summit 视频，Spark 中文微信群等资源集合)
-  - [(Q&A) 什么是 end-to-end exactly-once?](Q&A 什么是 end-to-end exactly-once.md)
+  - [Spark 资源集合](https://github.com/lw-lin/CoolplaySpark/tree/master/Spark%20%E8%B5%84%E6%BA%90%E9%9B%86%E5%90%88) (包括 Spark Summit 视频，Spark 中文微信群等资源集合)<br/>![wechat_spark_streaming_small](../Spark%20%E8%B5%84%E6%BA%90%E9%9B%86%E5%90%88/resources/wechat_spark_streaming_small_.PNG)
+  - [(Q&A) 什么是 end-to-end exactly-once?](Q%26A%20什么是%20end-to-end%20exactly-once.md)
 
 ## 致谢
 

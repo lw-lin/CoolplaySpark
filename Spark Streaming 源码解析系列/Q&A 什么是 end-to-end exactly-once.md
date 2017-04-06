@@ -11,7 +11,7 @@
 
 而在 Spark 2.0 引入的 Structured Streaming 里，将把常见的下游 end 也管理起来（比如通过 batch id 来原生支持幂等），那么不需要 user code 做什么就可以保证 end-to-end 的 exactly-once 了，请见下面一张来自 databricks 的 slide[1]:
 
- ![end-to-end exactly-once](q&a.imgs/end-to-end exactly-once.png)
+ ![end-to-end exactly-once](q%26a.imgs/end-to-end%20exactly-once.png)
 
 
 - [1] Reynold Xin (Databricks), *"the Future of Real-time in Spark"*, 2016.02, http://www.slideshare.net/rxin/the-future-of-realtime-in-spark.
