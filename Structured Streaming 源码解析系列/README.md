@@ -5,12 +5,11 @@
 ```
 本文内容适用范围：
 * 2017.07.11 update, Spark 2.2 全系列 √ (已发布：2.2.0)
-* 2017.05.02 update, Spark 2.1 全系列 √ (已发布：2.1.0, 2.1.1)
+* 2017.10.02 update, Spark 2.1 全系列 √ (已发布：2.1.0, 2.1.1, 2.1.2)
 ```
 
 - *一、概述*
   - [1.1 Structured Streaming 实现思路与实现概述](1.1%20Structured%20Streaming%20实现思路与实现概述.md)
-  - 1.2 Structured Streaming 之 Output Modes 解析
 - *二、Sources 与 Sinks*
   - [2.1 Structured Streaming 之 Source 解析](2.1%20Structured%20Streaming%20之%20Source%20解析.md)
   - [2.2 Structured Streaming 之 Sink 解析](2.2%20Structured%20Streaming%20之%20Sink%20解析.md)

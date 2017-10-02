@@ -8,7 +8,7 @@
 
 # Spark 中文微信交流群
 
-![wechat_spark_streaming_small](resources/wechat_spark_streaming_small_.PNG)   ![wechat_sh_meetup_small](resources/wechat_sh_meetup_small.PNG)
+![wechat_spark_streaming_small](resources/wechat_spark_streaming_small_.PNG)
 <br/>
 
 # Spark 资源（since 2017.01.01)
@@ -18,9 +18,9 @@
 - [Apache Spark JIRA issues](https://issues.apache.org/jira/issues/?jql=project+%3D+SPARK)
   - 开发人员经常关注一下，可以知道未来 3 ~ 6 个月 Spark 的发展方向 
 - [Structured Streaming 源码解析系列](https://github.com/lw-lin/CoolplaySpark/tree/master/Structured%20Streaming%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E7%B3%BB%E5%88%97)
-  - 作者会按照最新 Spark 版本（目前是 2.1.0）持续更新和修订
+  - 作者会按照最新 Spark 版本（目前是 2.2.0）持续更新和修订
 - [Spark Streaming 源码解析系列](https://github.com/lw-lin/CoolplaySpark/tree/master/Spark%20Streaming%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E7%B3%BB%E5%88%97)
-  - 作者会按照最新 Spark 版本（目前是 2.1.0）持续更新和修订
+  - 作者会按照最新 Spark 版本（目前是 2.2.0）持续更新和修订
     <br/>
 
 # Spark 资源（prior to 2016.12.31)
